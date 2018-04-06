@@ -1,0 +1,21 @@
+torus
+0 0 0 15 100
+torus
+200 0 0 15 100
+ident
+rotate
+x 90
+move
+150 250 0
+apply
+
+box
+100 250 0 90 10 10
+box
+300 250 0 90 10 10
+box
+342 291 0 10 90 10
+
+display
+save
+arduino.png
